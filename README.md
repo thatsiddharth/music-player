@@ -15,9 +15,9 @@ Android
 # How it works
 On the initialization, application is fetching all music files from your phone and build a list of songs. From that moment, you can listen to the music whenever you want.
 
-# PlayStore Link
-<img src="https://user-images.githubusercontent.com/51455561/80761988-41c4fb00-8b59-11ea-8b6c-c95eb44e48e6.jpg" width="210">|
-<img src="https://user-images.githubusercontent.com/51455561/80761978-3f62a100-8b59-11ea-94dd-42f7ef8c6f4d.jpg" width="210">|
-<img src="https://user-images.githubusercontent.com/51455561/80761983-4093ce00-8b59-11ea-864d-3105ddf804d5.jpg" width="210">
+# Preview
+![Screenshot_20221120-110554-155](https://user-images.githubusercontent.com/48319985/202887662-222d4ff8-c9e9-4599-9248-28b466c87e2a.png)
+![Screenshot_20221120-110520-517](https://user-images.githubusercontent.com/48319985/202887663-033087a7-2100-4e4a-b95a-bd74b42defa5.png)
+![Screenshot_20221120-110538-557](https://user-images.githubusercontent.com/48319985/202887664-85936ff7-79f0-401f-a745-63ccfa1b4f39.png)
 
 
